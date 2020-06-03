@@ -1,1 +1,3 @@
-# Infinite-Dimensional-Lagrangian-Relaxation
+# Infinite Dimensional Lagrangian Relaxation
+
+Respiratory for the project's code and documentation.
